@@ -1,0 +1,8 @@
+{
+  "name": "@hub-sp/ciphers",
+  "version": "1.0.0",
+  "dependencies": {
+    "cipherjs": "~0.1.1"
+  },
+  "license": "MIT"
+}

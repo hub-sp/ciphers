@@ -4,5 +4,8 @@
   "dependencies": {
     "cipherjs": "~0.1.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@hub-sp/ciphers",
+  "name": "@hub-sp/cipherjs",
   "version": "1.0.0",
   "dependencies": {
     "cipherjs": "~0.1.1"
